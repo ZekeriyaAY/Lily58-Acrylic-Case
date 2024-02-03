@@ -1,3 +1,8 @@
+# Edits by @ZekeriyaAY - Changelogs
+`Lily58 revision2 - centered.ai` - Centered on workspace for acrylic cutting
+`Lily58 revision3 - without oled.ai` - Removed oled/mcu window
+`Lily58 revision4 - without oled screw hole.ai`- Removed oled/mcu window's screw holes
+
 # Lily58 Pro Acrylic Case
 
 This case was inspired by [FateNozomi](https://github.com/FateNozomi). The case was not designed originally for the use of Ponoko, and I reused some parts from my original kit for the oled cover. Before uploading my designs, I figured I should make it Ponoko ready.
