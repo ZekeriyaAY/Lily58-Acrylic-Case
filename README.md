@@ -1,4 +1,5 @@
 # Edits by @ZekeriyaAY - Changelogs
+`Lily58 Base.ai`, `Lily58 Switch.ai`, `Lily58 Wall.ai`- with M3 screw&standoff holes\
 `Lily58 revision2 - centered.ai` - Centered on workspace for acrylic cutting\
 `Lily58 revision3 - without oled.ai` - Removed oled/mcu window\
 `Lily58 revision4 - without oled screw hole.ai`- Removed oled/mcu window's screw holes
